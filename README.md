@@ -113,8 +113,10 @@
 
 
 
+### Deletar o Servidor [IMPORTANTE] ###
+ ![dt22](https://github.com/flitzso/aws-ec2/assets/106411702/b592ee8c-b858-46c4-89c9-5dbb142067a9) <br />
+
+![dt23](https://github.com/flitzso/aws-ec2/assets/106411702/094cca8e-52d0-4d41-97a2-8263ec4311ce) 
 
 
-
-
-
+#### Pronto o servidor esta sendo deletado ####
