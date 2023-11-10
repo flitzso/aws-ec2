@@ -56,6 +56,32 @@
 ![edit04](https://github.com/flitzso/aws-ec2/assets/106411702/f5ed40b5-6335-4d12-b4a8-c4b007d9aaba) <br /> 
 ![dt05](https://github.com/flitzso/aws-ec2/assets/106411702/5aa78778-1b33-441a-8b18-f4c2a85439a5)
 
-#### AmazonSSMManagedInstanceCore ####
+#### AmazonSSMManagedInstanceCore -> no fim da pagina click em next ####
 ![dt06](https://github.com/flitzso/aws-ec2/assets/106411702/7e1d1621-4ae0-4dfc-b04d-87feeb4d756c)
+
+#### Name, Review and Create ####
+![dt07](https://github.com/flitzso/aws-ec2/assets/106411702/65c34739-f353-4743-8823-64232227fc28)
+#### Modifique apenas a parte de imagem acima e vá ate o fim da pagina e click Create Role ####
+
+#### De refresh no canto e escolha o acesso que foi criado ####
+
+![dt8](https://github.com/flitzso/aws-ec2/assets/106411702/b95b29c2-a422-49d0-836a-30dd87920f33)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
