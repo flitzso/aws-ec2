@@ -67,7 +67,11 @@
 
 ![dt8](https://github.com/flitzso/aws-ec2/assets/106411702/b95b29c2-a422-49d0-836a-30dd87920f33)
 
-
+#### Siga preenchendo como na imagem ####
+![dt9](https://github.com/flitzso/aws-ec2/assets/106411702/66adaf36-95e0-4aac-ac37-04a8716f2026) <br />
+![dt10](https://github.com/flitzso/aws-ec2/assets/106411702/5c42a2d9-9879-4bb3-bd15-19e01d11f408)  <br />
+![dt11](https://github.com/flitzso/aws-ec2/assets/106411702/b1f36c5e-ba12-4972-9a33-c9463bc7e5d1) <br />
+![dt12](https://github.com/flitzso/aws-ec2/assets/106411702/1d2021bc-6386-488b-8d67-e811a72edbe1) <br />
 
 
 
