@@ -84,9 +84,24 @@
 #### Esta funcionando porem tem um detalhe para ser resolvido ####
 ![dt17](https://github.com/flitzso/aws-ec2/assets/106411702/ce2475f4-2dfb-44c4-85a4-be0fc9728e41)
 
+#### Entrando no terminal AWS ####
 
+![dt18](https://github.com/flitzso/aws-ec2/assets/106411702/08744910-8a06-42ac-ab7b-909ad3fc942d) <br />
 
+![dt19](https://github.com/flitzso/aws-ec2/assets/106411702/7d99474c-62a4-41b6-9be3-fe19046ce5bb) <br />
 
+![dt20](https://github.com/flitzso/aws-ec2/assets/106411702/afc6566d-f8d2-4e1f-8997-a84e9aa5e73d)
+
+#### Como trocar o script e ou criar arquivo caso não exista ####
+##### sudo su - #####
+##### cd /var/www/html/ #####
+##### ls  [pra visualisar arquivo] #####
+
+#### Caso arquivo não exista faça isso ####
+##### nano index.html  [vai abrir um edite pra você colocar sua frase]#####
+##### Ctrl + x  [você sai] #####
+##### Y         [escolha Y] #####
+##### W         [Aperta enter e pronto] #####
 
 
 
