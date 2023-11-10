@@ -103,6 +103,15 @@
 ##### Y         [escolha Y] #####
 ##### W         [Aperta enter e pronto] #####
 
+#### Para editar um arquivo ja existente ####
+##### vim index.html  [editar] #####
+##### esc -> shift + : [coloque w aperte enter] #####
+##### shift + : [digite Q aperte enter] para sair do vim #####
+##### Só dar refresh na pagina e pronto #####
+##### Fecharo terminal clique aqui #####
+![dt21](https://github.com/flitzso/aws-ec2/assets/106411702/0b7b3b0f-e627-4710-9431-572db874c248)
+
+
 
 
 
