@@ -72,12 +72,17 @@
 ![dt10](https://github.com/flitzso/aws-ec2/assets/106411702/5c42a2d9-9879-4bb3-bd15-19e01d11f408)  <br />
 ![dt11](https://github.com/flitzso/aws-ec2/assets/106411702/b1f36c5e-ba12-4972-9a33-c9463bc7e5d1) <br />
 ![dt12](https://github.com/flitzso/aws-ec2/assets/106411702/1d2021bc-6386-488b-8d67-e811a72edbe1) <br />
+![dt13](https://github.com/flitzso/aws-ec2/assets/106411702/8c3c7541-688b-47cd-9264-ded187fe8510) <br />
+![dt14](https://github.com/flitzso/aws-ec2/assets/106411702/363e1a75-eba9-44b0-b37e-e3e530f649f3)
 
+#### Role ate o fim da pagina e click no botão: ####
+![dt15](https://github.com/flitzso/aws-ec2/assets/106411702/da48f153-318f-4440-8872-55c52372708c)
 
+#### Copie e cole ####
+![dt16](https://github.com/flitzso/aws-ec2/assets/106411702/39ac5285-dbe1-47fc-8400-e5a9dfa6a797)
 
-
-
-
+#### Esta funcionando porem tem um detalhe para ser resolvido ####
+![dt17](https://github.com/flitzso/aws-ec2/assets/106411702/ce2475f4-2dfb-44c4-85a4-be0fc9728e41)
 
 
 
