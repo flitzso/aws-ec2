@@ -34,4 +34,15 @@
 #### :round_pushpin:Atualise o key pair name e escolha a que você criou ####
 ![keyaaaaaaaaaa](https://github.com/flitzso/aws-ec2/assets/106411702/572ed0d9-ef82-49ec-9bfd-06c29aa87dd4)
 
+#### Network Setting logo a baixo da key pair,vai em edit: ####
+![editt](https://github.com/flitzso/aws-ec2/assets/106411702/556e8e49-63b5-4b63-acef-c381ffa54d8c)
+
+##### Faça como esta na imagem ####
+![server1](https://github.com/flitzso/aws-ec2/assets/106411702/af73d244-42b5-487d-a74f-03d84999d235) <br />
+
+![tcp22](https://github.com/flitzso/aws-ec2/assets/106411702/0afb8e4b-2a33-4353-a194-e5a97ef024d2) <br />
+
+![addsg](https://github.com/flitzso/aws-ec2/assets/106411702/7c155f44-35a4-4e31-ad66-7bc3a14a60f2) <br />
+
+![ruless](https://github.com/flitzso/aws-ec2/assets/106411702/3d4329eb-5c19-4e2a-87f5-3a0767ea5f3c)
 
