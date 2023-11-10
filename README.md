@@ -55,3 +55,7 @@
 ![dt03](https://github.com/flitzso/aws-ec2/assets/106411702/2ad38718-b6fc-4a2b-9d29-0c567207d0e4) <br /> 
 ![edit04](https://github.com/flitzso/aws-ec2/assets/106411702/f5ed40b5-6335-4d12-b4a8-c4b007d9aaba) <br /> 
 ![dt05](https://github.com/flitzso/aws-ec2/assets/106411702/5aa78778-1b33-441a-8b18-f4c2a85439a5)
+
+#### AmazonSSMManagedInstanceCore ####
+![dt06](https://github.com/flitzso/aws-ec2/assets/106411702/7e1d1621-4ae0-4dfc-b04d-87feeb4d756c)
+
