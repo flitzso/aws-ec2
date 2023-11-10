@@ -46,3 +46,12 @@
 
 ![ruless](https://github.com/flitzso/aws-ec2/assets/106411702/3d4329eb-5c19-4e2a-87f5-3a0767ea5f3c)
 
+##### Storage ####
+![storage](https://github.com/flitzso/aws-ec2/assets/106411702/f3af7185-fab8-4a91-a616-28cffe95144a)
+
+#### Advanced Details ####
+![dt01](https://github.com/flitzso/aws-ec2/assets/106411702/1c89c019-3228-4d63-baee-95ddeb528957) <br />
+![dt02](https://github.com/flitzso/aws-ec2/assets/106411702/f811e967-83a5-42df-941c-d51bd519c0c1) <br />
+![dt03](https://github.com/flitzso/aws-ec2/assets/106411702/2ad38718-b6fc-4a2b-9d29-0c567207d0e4) <br /> 
+![edit04](https://github.com/flitzso/aws-ec2/assets/106411702/f5ed40b5-6335-4d12-b4a8-c4b007d9aaba) <br /> 
+![dt05](https://github.com/flitzso/aws-ec2/assets/106411702/5aa78778-1b33-441a-8b18-f4c2a85439a5)
