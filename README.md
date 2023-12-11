@@ -100,8 +100,8 @@
 #### Caso arquivo não exista faça isso ####
 ##### nano index.html  [vai abrir um edite pra você colocar sua frase]#####
 ##### Ctrl + x  [você sai] #####
-##### Y         [escolha Y] #####
-##### W         [Aperta enter e pronto] #####
+##### Y        [escolha Y] #####
+##### W        [Aperta enter e pronto] #####
 
 #### Para editar um arquivo ja existente ####
 ##### vim index.html  [editar] #####
