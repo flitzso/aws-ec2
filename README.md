@@ -59,7 +59,7 @@
 #### AmazonSSMManagedInstanceCore -> no fim da pagina click em next ####
 ![dt06](https://github.com/flitzso/aws-ec2/assets/106411702/7e1d1621-4ae0-4dfc-b04d-87feeb4d756c)
 
-#### Name, Review and Create ####
+#### Name, Review and Create! ####
 ![dt07](https://github.com/flitzso/aws-ec2/assets/106411702/65c34739-f353-4743-8823-64232227fc28)
 #### Modifique apenas a parte de imagem acima e vá ate o fim da pagina e click Create Role ####
 
